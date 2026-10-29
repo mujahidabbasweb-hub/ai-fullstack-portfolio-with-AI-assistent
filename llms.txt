@@ -1,0 +1,19 @@
+# Mujahid Abbas
+
+> Mujahid Abbas is a full-stack developer and AI solutions specialist from Rawalpindi / Islamabad, Pakistan. He builds AI web apps, custom SaaS, Laravel and Flutter products and n8n, Zapier and Make automations for clients in the US, UK and Gulf (GCC).
+
+## Key facts
+- Role: Full-Stack Developer and AI Solutions Specialist (freelance, remote)
+- Location: Rawalpindi / Islamabad, Pakistan (remote worldwide)
+- Markets: United States, United Kingdom, UAE, Saudi Arabia (New York, London, Dubai, Riyadh)
+- Core stack: Laravel, PHP, MySQL, Flutter, Dart, Firebase, REST APIs, WordPress, WooCommerce, n8n, Zapier, Make, OpenAI APIs, Claude Code, Cursor IDE
+- Contact: mujahidabbas.offical@gmail.com, WhatsApp +92 321 9153891
+
+## Pages
+- [Home](https://mujahidabbasweb.netlify.app/): overview and quick answers
+- [About](https://mujahidabbasweb.netlify.app/about): background, skills and certification
+- [Services](https://mujahidabbasweb.netlify.app/services): web apps and SaaS, Flutter apps, AI solutions, workflow automation, WordPress
+- [Projects](https://mujahidabbasweb.netlify.app/projects): Al Malitha Trading & Contracting, CasaMeds, ICSST, AR Academy Nishat, Orhan Contracting, Grand Arab
+- [Blog](https://mujahidabbasweb.netlify.app/blog): guides on Laravel cost, Flutter vs native, n8n vs Zapier vs Make
+- [Hire me](https://mujahidabbasweb.netlify.app/hire-me): how to start a project
+- [Contact](https://mujahidabbasweb.netlify.app/contact)
